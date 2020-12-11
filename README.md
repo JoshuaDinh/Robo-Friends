@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Robo-Friends
+
+A react application that uses JsonPlaceholder for name data. Search names or scroll through the list for different Robots.
+
 ## Available Scripts
 
 In the project directory, you can run:
